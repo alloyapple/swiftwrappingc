@@ -1,0 +1,5 @@
+module CSwiftwrappingc [system] {
+    header "/usr/local/include/swiftwrappingc.h"
+    link "swiftwrappingc"
+    export *
+}
